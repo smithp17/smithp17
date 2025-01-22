@@ -15,7 +15,15 @@ Hi there! I’m **Smit Patne**, a developer who thrives at the intersection of *
 
 Try this interactive quiz in your browser console to test your knowledge about me. Copy and paste the code below into your browser's developer tools (Console tab) to play!
 
+## 🎮 **A Fun Quiz About Me!**  
+
+Try this interactive quiz in your browser console to test your knowledge about me. Follow these steps to play:
+1. Open your browser and press `F12` or `Ctrl+Shift+I` (or right-click and choose **Inspect**).
+2. Go to the **Console** tab in the developer tools.
+3. Copy the code below and paste it into the Console, then hit `Enter`.
+
 ```javascript
+// Paste this code into your browser's Console to start the quiz!
 console.log("🌟 Welcome to 'How Well Do You Know Smit Patne?' 🌟");
 
 const questions = [
