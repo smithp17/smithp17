@@ -11,6 +11,64 @@ Hi there! I’m **Smit Patne**, a developer who thrives at the intersection of *
 
 ---
 
+## 🎮 **A Fun Quiz About Me!**  
+
+Try this interactive quiz in your browser console to test your knowledge about me. Copy and paste the code below into your browser's developer tools (Console tab) to play!
+
+```javascript
+console.log("🌟 Welcome to 'How Well Do You Know Smit Patne?' 🌟");
+
+const questions = [
+  {
+    question: "Which cloud platforms has Smit worked with? (Type the number)",
+    options: ["1) AWS", "2) GCP", "3) Both AWS and GCP", "4) None"],
+    answer: 3,
+  },
+  {
+    question: "What stack did Smit use to build Event Butterfly's platform? (Type the number)",
+    options: ["1) MERN", "2) LAMP", "3) MEAN", "4) Django"],
+    answer: 1,
+  },
+  {
+    question: "Which tool has Smit used for dashboard creation? (Type the number)",
+    options: ["1) Tableau", "2) Power BI", "3) Looker Studio", "4) All of the above"],
+    answer: 4,
+  },
+  {
+    question: "Which project involved AWS Lambda and Snowflake? (Type the number)",
+    options: [
+      "1) Forex Data Visualization",
+      "2) Automated Weather Data Pipeline",
+      "3) Credit Card Fraud Detection",
+      "4) E-commerce Chatbot",
+    ],
+    answer: 2,
+  },
+];
+
+let score = 0;
+
+questions.forEach((q, index) => {
+  console.log(`\nQuestion ${index + 1}: ${q.question}`);
+  q.options.forEach((opt) => console.log(opt));
+  const userAnswer = prompt(`Your Answer (1-${q.options.length}): `);
+
+  if (parseInt(userAnswer) === q.answer) {
+    console.log("✅ Correct!");
+    score++;
+  } else {
+    console.log(`❌ Wrong! The correct answer was ${q.answer}.`);
+  }
+});
+
+console.log(`\n🎉 Quiz Completed! You scored ${score}/${questions.length}.`);
+console.log(
+  score === questions.length
+    ? "🔥 Amazing! You're a true Smit Patne expert!"
+    : "💡 Great effort! Learn more about me by exploring this README."
+);
+```
+
 ## 💻 **What I Bring to the Table**  
 
 ### 🌟 **Languages I Speak (Code, of Course!)**
