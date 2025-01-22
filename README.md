@@ -1,7 +1,7 @@
 # 🌟 Smit Patne – Building Smarter Tech, One Line of Code at a Time 🌟  
 
 🎓 **Master's in Computer Science (May 2024)** | 🛠️ **Engineer of Scalable Solutions** | 💡 **Cloud Innovator**  
-🌍 [Portfolio](https://smitpatneportfolio.netlify.app/) | 🐙 [GitHub](https://github.com/smithp17) | 💼 [LinkedIn](https://www.linkedin.com/in/smit-patne/)  
+🌍 [Portfolio](https://smitpatneportfolio.netlify.app/) | | 💼 [LinkedIn](https://www.linkedin.com/in/smit-patne/)  
 
 ---
 
@@ -10,72 +10,6 @@
 Hi there! I’m **Smit Patne**, a developer who thrives at the intersection of **creativity** and **technology**. Whether it’s crafting intuitive user interfaces or optimizing complex data pipelines, I love solving problems and building systems that matter. From designing AI-powered fraud detection tools to developing seamless web applications, my mission is simple: **innovate with purpose**.
 
 ---
-
-## 🎮 **A Fun Quiz About Me!**  
-
-Try this interactive quiz in your browser console to test your knowledge about me. Copy and paste the code below into your browser's developer tools (Console tab) to play!
-
-## 🎮 **A Fun Quiz About Me!**  
-
-Try this interactive quiz in your browser console to test your knowledge about me. Follow these steps to play:
-1. Open your browser and press `F12` or `Ctrl+Shift+I` (or right-click and choose **Inspect**).
-2. Go to the **Console** tab in the developer tools.
-3. Copy the code below and paste it into the Console, then hit `Enter`.
-
-```javascript
-// Paste this code into your browser's Console to start the quiz!
-console.log("🌟 Welcome to 'How Well Do You Know Smit Patne?' 🌟");
-
-const questions = [
-  {
-    question: "Which cloud platforms has Smit worked with? (Type the number)",
-    options: ["1) AWS", "2) GCP", "3) Both AWS and GCP", "4) None"],
-    answer: 3,
-  },
-  {
-    question: "What stack did Smit use to build Event Butterfly's platform? (Type the number)",
-    options: ["1) MERN", "2) LAMP", "3) MEAN", "4) Django"],
-    answer: 1,
-  },
-  {
-    question: "Which tool has Smit used for dashboard creation? (Type the number)",
-    options: ["1) Tableau", "2) Power BI", "3) Looker Studio", "4) All of the above"],
-    answer: 4,
-  },
-  {
-    question: "Which project involved AWS Lambda and Snowflake? (Type the number)",
-    options: [
-      "1) Forex Data Visualization",
-      "2) Automated Weather Data Pipeline",
-      "3) Credit Card Fraud Detection",
-      "4) E-commerce Chatbot",
-    ],
-    answer: 2,
-  },
-];
-
-let score = 0;
-
-questions.forEach((q, index) => {
-  console.log(`\nQuestion ${index + 1}: ${q.question}`);
-  q.options.forEach((opt) => console.log(opt));
-  const userAnswer = prompt(`Your Answer (1-${q.options.length}): `);
-
-  if (parseInt(userAnswer) === q.answer) {
-    console.log("✅ Correct!");
-    score++;
-  } else {
-    console.log(`❌ Wrong! The correct answer was ${q.answer}.`);
-  }
-});
-
-console.log(`\n🎉 Quiz Completed! You scored ${score}/${questions.length}.`);
-console.log(
-  score === questions.length
-    ? "🔥 Amazing! You're a true Smit Patne expert!"
-    : "💡 Great effort! Learn more about me by exploring this README."
-);
-```
 
 ## 💻 **What I Bring to the Table**  
 
