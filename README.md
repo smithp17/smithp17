@@ -2,7 +2,7 @@
 
 🚀 **Versatile Software Developer | Data Engineer | Data Scientist**  
 👨‍🎓 **Master of Science in Computer Science (May 2024)**  
-🌐 [Portfolio Website](https://smitpatneportfolio.netlify.app/) | [GitHub](https://github.com/smithp17) | [LinkedIn](https://www.linkedin.com/in/smit-patne/)  
+🌐 [Portfolio Website](https://smitpatneportfolio.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/smit-patne/)  
 
 ---
 
@@ -24,6 +24,7 @@ I am a results-driven software engineer with expertise in full-stack development
 ### **Frameworks & Tools**
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
