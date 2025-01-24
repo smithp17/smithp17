@@ -55,7 +55,5 @@
 
 ---
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/example-footer.png" alt="Footer image with contact info" width="80%">
-</p>
+
 
