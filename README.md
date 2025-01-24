@@ -1,4 +1,4 @@
-# 🌟 Smit Patne – Building Smarter Tech, One Line of Code at a Time 🌟  
+# 🌟 Smit Patne – Building Smarter Tech, One Line of Code at a Time 
 
 
 ---
