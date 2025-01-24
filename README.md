@@ -1,10 +1,6 @@
 # 🌟 Smit Patne – Building Smarter Tech, One Line of Code at a Time 🌟  
 
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/example-banner.png" alt="Smit Patne - Tools and Technologies" width="100%">
-</p>
-
 ---
 
 ### 🚀 **Tech I Speak Fluently**
@@ -27,6 +23,7 @@
   <img src="https://img.shields.io/badge/-GCP-red?style=for-the-badge&logo=googlecloud&logoColor=white" title="GCP: Cloud storage and processing" />
   <img src="https://img.shields.io/badge/-Snowflake-blue?style=for-the-badge&logo=snowflake&logoColor=white" title="Snowflake: Data warehousing made simple" />
   <img src="https://img.shields.io/badge/-Hadoop-yellowgreen?style=for-the-badge&logo=apachehadoop&logoColor=white" title="Hadoop: Big data processing" />
+  <img src="https://img.shields.io/badge/-Docker-lightblue?style=for-the-badge&logo=docker&logoColor=white" title="Docker: Containerized development made easy" />
 </p>
 
 ---
