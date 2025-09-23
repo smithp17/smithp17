@@ -41,7 +41,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white" title="MongoDB: NoSQL database solutions" />
   <img src="https://img.shields.io/badge/-PostgreSQL-blueviolet?style=for-the-badge&logo=postgresql&logoColor=white" title="PostgreSQL: Advanced database systems" />
-  <img src="https://img.shields.io/badge/-ApacheKafka-black?style=for-the-badge&logo=apachekafka&logoColor=white" title="Apache Kafka: Event streaming magic" />
+  
   <img src="https://img.shields.io/badge/-ApacheAirflow-lightblue?style=for-the-badge&logo=apacheairflow&logoColor=white" title="Apache Airflow: Workflow automation" />
 </p>
 
