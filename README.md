@@ -24,34 +24,27 @@
 <td width="50%" valign="top">
 
 ### 🧠 AI/ML Arsenal
-```yaml
-LLMs & RAG:
-  ├── OpenAI API      ████████████ 
-  ├── LangChain       ███████████░
-  ├── Agentic RAG     ███████████░
-  └── pgvector        ██████████░░
 
-ML Tools:
-  ├── Scikit-learn    ███████████░
-  ├── XGBoost         ██████████░░
-  └── MLflow          █████████░░░
-```
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
 ### ⚡ Full-Stack Weapons
-```yaml
-Frontend:
-  ├── React/TypeScript ████████████
-  ├── Tailwind CSS     ███████████░
-  └── WebSockets       ██████████░░
 
-Backend:
-  ├── Node.js/Express  ████████████
-  ├── FastAPI/Flask    ███████████░
-  └── REST/GraphQL     ███████████░
-```
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 </td>
 </tr>
