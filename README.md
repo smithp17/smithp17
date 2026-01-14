@@ -1,59 +1,130 @@
-# 🌟 Smit Patne – Building Smarter Tech, One Line of Code at a Time 
+```
+    ███████╗███╗   ███╗██╗████████╗    ██████╗  █████╗ ████████╗███╗   ██╗███████╗
+    ██╔════╝████╗ ████║██║╚══██╔══╝    ██╔══██╗██╔══██╗╚══██╔══╝████╗  ██║██╔════╝
+    ███████╗██╔████╔██║██║   ██║       ██████╔╝███████║   ██║   ██╔██╗ ██║█████╗  
+    ╚════██║██║╚██╔╝██║██║   ██║       ██╔═══╝ ██╔══██║   ██║   ██║╚██╗██║██╔══╝  
+    ███████║██║ ╚═╝ ██║██║   ██║       ██║     ██║  ██║   ██║   ██║ ╚████║███████╗
+    ╚══════╝╚═╝     ╚═╝╚═╝   ╚═╝       ╚═╝     ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═══╝╚══════╝
+```
 
-
----
-
-### 🚀 **Tech I Speak Fluently**
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white" title="Python: My go-to language for data science and backend development" />
-  <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" title="JavaScript: Building dynamic web experiences" />
-  <img src="https://img.shields.io/badge/-SQL-lightgrey?style=for-the-badge&logo=postgresql&logoColor=white" title="SQL: Database management and analysis" />
-  <img src="https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java&logoColor=white" title="Java: Enterprise-grade application development" />
-  <img src="https://img.shields.io/badge/-HTML5-red?style=for-the-badge&logo=html5&logoColor=white" title="HTML5: Building structure for the web" />
-  <img src="https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" title="CSS3: Adding style to the web" />
-</p>
-
----
-
-### 🛠️ **Tools of My Trade**
-<p align="center">
-  <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white" title="React: Building responsive user interfaces" />
-  <img src="https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" title="Node.js: Efficient backend solutions" />
-  <img src="https://img.shields.io/badge/-AWS-orange?style=for-the-badge&logo=amazonaws&logoColor=white" title="AWS: Cloud solutions and data pipelines" />
-  <img src="https://img.shields.io/badge/-GCP-red?style=for-the-badge&logo=googlecloud&logoColor=white" title="GCP: Cloud storage and processing" />
-  <img src="https://img.shields.io/badge/-Snowflake-blue?style=for-the-badge&logo=snowflake&logoColor=white" title="Snowflake: Data warehousing made simple" />
-  <img src="https://img.shields.io/badge/-Hadoop-yellowgreen?style=for-the-badge&logo=apachehadoop&logoColor=white" title="Hadoop: Big data processing" />
-  <img src="https://img.shields.io/badge/-Docker-lightblue?style=for-the-badge&logo=docker&logoColor=white" title="Docker: Containerized development made easy" />
-</p>
-
----
-
-### 🌟 **Visualization and Analytics**
-<p align="center">
-  <img src="https://img.shields.io/badge/-Tableau-purple?style=for-the-badge&logo=tableau&logoColor=white" title="Tableau: Creating insightful dashboards" />
-  <img src="https://img.shields.io/badge/-PowerBI-darkblue?style=for-the-badge&logo=powerbi&logoColor=white" title="Power BI: Data-driven decision making" />
-  <img src="https://img.shields.io/badge/-LookerStudio-darkred?style=for-the-badge&logo=looker&logoColor=white" title="Looker Studio: Interactive visualizations" />
-</p>
-
----
-
-### 🧰 **Database Management & Automation**
-<p align="center">
-  <img src="https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white" title="MongoDB: NoSQL database solutions" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-blueviolet?style=for-the-badge&logo=postgresql&logoColor=white" title="PostgreSQL: Advanced database systems" />
+<div align="center">
   
-  <img src="https://img.shields.io/badge/-ApacheAirflow-lightblue?style=for-the-badge&logo=apacheairflow&logoColor=white" title="Apache Airflow: Workflow automation" />
-</p>
+```
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║  🎮  SELECT YOUR PLAYER  🎮                                                   ║
+║                                                                               ║
+║                    ████                                                       ║
+║                   ██████                                                      ║
+║                    ████                                                       ║
+║                   ██████                                                      ║
+║                  ████████                                                     ║
+║                    ████                                                       ║
+║                   ██  ██                                                      ║
+║                                                                               ║
+║  PLAYER: Smit Patne                                                           ║
+║  CLASS:  Gen AI Developer ⚔️ Full-Stack Developer                               ║
+║  QUEST:  Building AI Systems That Actually Ship                               ║
+║                                                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
 
 ---
 
-### 🛠️ **Version Control & Collaboration**
-<p align="center">
-  <img src="https://img.shields.io/badge/-Git-orange?style=for-the-badge&logo=git&logoColor=white" title="Git: Version control that powers my projects" />
-  <img src="https://img.shields.io/badge/-Jira-blue?style=for-the-badge&logo=jira&logoColor=white" title="Jira: Managing sprints and agile projects" />
-</p>
+## 🍄 POWER-UPS COLLECTED
+
+```
+┌──────────────────┬──────────────────┬──────────────────┐
+│   🔥 LANGUAGES   │   ⚡ FRAMEWORKS   │   🌟 CLOUD       │
+├──────────────────┼──────────────────┼──────────────────┤
+│   Python         │   React          │   AWS            │
+│   JavaScript     │   FastAPI        │   GCP            │
+│   SQL            │   Node.js        │   Docker         │
+│   Java           │   LangChain      │   Kubernetes     │
+└──────────────────┴──────────────────┴──────────────────┘
+```
 
 ---
 
+## 🏰 WORLDS CONQUERED (Projects)
 
+```
+WORLD 1-1 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ★★★★★
+```
+### 🔐 [FraudShield AI](link)
+> *Boss Defeated: Real-time Fraud Detection*  
+> `FastAPI` `Kafka Streaming` `XGBoost` `Kubernetes`  
+> Built a microservices fortress that catches fraudsters in milliseconds
 
+```
+WORLD 2-1 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ★★★★★
+```
+### 📊 [FinSight AI](link)
+> *Boss Defeated: Financial Document Chaos*  
+> `RAG System` `LangChain` `pgvector` `PostgreSQL`  
+> AI-powered Q&A that makes sense of financial madness
+
+```
+WORLD 3-1 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ★★★★☆
+```
+### 🎫 [EventHub](link)
+> *Boss Defeated: Event Management*  
+> `React` `Node.js` `Socket.io` `Real-time Messaging`  
+> Where events come alive with real-time magic
+
+```
+WORLD 4-1 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ★★★★★
+```
+### 🗳️ [ZK-Vote](link)
+> *Boss Defeated: Privacy Villains*  
+> `ZK-SNARKs` `Blockchain` `Cryptography`  
+> Private voting built from scratch. Trust no one. Verify everything.
+
+---
+
+## 📊 GAME STATS
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f8d847)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff)
+
+</div>
+
+---
+
+## 🎯 CURRENT QUEST
+
+```diff
++ 🔍 Seeking: Data Science / Full-Stack / GenAI roles
++ 🎮 Status: Ready to join your party!
+! ⚔️  Weapon of choice: Production-grade ML systems
+```
+
+---
+
+<div align="center">
+
+### 🏆 CONTINUE? INSERT COIN TO CONNECT
+
+[![Email](https://img.shields.io/badge/📧_Email-Press_Start-red?style=for-the-badge)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Player_2-blue?style=for-the-badge)](https://linkedin.com/in/yourprofile)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-High_Score-purple?style=for-the-badge)](your-portfolio-link)
+
+```
+╔════════════════════════════════════════════════════════════╗
+║                                                            ║
+║   THANK YOU FOR VISITING!                                  ║
+║                                                            ║
+║   "It's-a me, Smit!" 🍄                                    ║
+║                                                            ║
+║   Your quest awaits... Let's build something legendary.    ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
