@@ -63,26 +63,35 @@ Backend:
 
 <div align="center">
 
-| 💻 Languages | 🗄️ Databases | ☁️ Cloud & DevOps |
-|:---:|:---:|:---:|
-| Python | PostgreSQL | AWS (S3, Lambda, RDS) |
-| JavaScript/TypeScript | MongoDB | GCP (Dataflow, Pub/Sub) |
-| SQL | Snowflake • BigQuery | Docker • Kubernetes |
-| HTML/CSS | Redis • Firebase | Airflow • Kafka |
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 PLAYER STATS
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smitpatne&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&ring_color=FF6B6B&icon_color=4ECDC4)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=smitpatne&theme=radical&hide_border=true&background=0d1117&ring=FF6B6B&fire=4ECDC4&currStreakLabel=4ECDC4)
-
-</div>
 
 ---
 
