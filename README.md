@@ -1,130 +1,111 @@
-```
-    ███████╗███╗   ███╗██╗████████╗    ██████╗  █████╗ ████████╗███╗   ██╗███████╗
-    ██╔════╝████╗ ████║██║╚══██╔══╝    ██╔══██╗██╔══██╗╚══██╔══╝████╗  ██║██╔════╝
-    ███████╗██╔████╔██║██║   ██║       ██████╔╝███████║   ██║   ██╔██╗ ██║█████╗  
-    ╚════██║██║╚██╔╝██║██║   ██║       ██╔═══╝ ██╔══██║   ██║   ██║╚██╗██║██╔══╝  
-    ███████║██║ ╚═╝ ██║██║   ██║       ██║     ██║  ██║   ██║   ██║ ╚████║███████╗
-    ╚══════╝╚═╝     ╚═╝╚═╝   ╚═╝       ╚═╝     ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═══╝╚══════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=200&section=header&text=SMIT%20PATNE&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20×%20GenAI%20Developer&descSize=18&descAlignY=55" width="100%"/>
 
 <div align="center">
   
 ```
-╔═══════════════════════════════════════════════════════════════════════════════╗
-║  🎮  SELECT YOUR PLAYER  🎮                                                   ║
-║                                                                               ║
-║                    ████                                                       ║
-║                   ██████                                                      ║
-║                    ████                                                       ║
-║                   ██████                                                      ║
-║                  ████████                                                     ║
-║                    ████                                                       ║
-║                   ██  ██                                                      ║
-║                                                                               ║
-║  PLAYER: Smit Patne                                                           ║
-║  CLASS:  Gen AI Developer ⚔️ Full-Stack Developer                               ║
-║  QUEST:  Building AI Systems That Actually Ship                               ║
-║                                                                               ║
-╚═══════════════════════════════════════════════════════════════════════════════╝
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣤⣤⣤⣤⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⣠⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣄⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⢀⣾⣿⣿⣿⣿⣿⣿  GAME ON  ⣿⣿⣿⣿⣿⣿⣷⡀⠀⠀⠀⠀
+⠀⠀⠀⠀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠀⠀⠀⠀
+⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀
 ```
+
+### `> 2+ Years of Building AI Systems That Ship_`
 
 </div>
 
 ---
 
-## 🍄 POWER-UPS COLLECTED
+## ⚔️ SKILL TREE
 
-```
-┌──────────────────┬──────────────────┬──────────────────┐
-│   🔥 LANGUAGES   │   ⚡ FRAMEWORKS   │   🌟 CLOUD       │
-├──────────────────┼──────────────────┼──────────────────┤
-│   Python         │   React          │   AWS            │
-│   JavaScript     │   FastAPI        │   GCP            │
-│   SQL            │   Node.js        │   Docker         │
-│   Java           │   LangChain      │   Kubernetes     │
-└──────────────────┴──────────────────┴──────────────────┘
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 AI/ML Arsenal
+```yaml
+LLMs & RAG:
+  ├── OpenAI API      ████████████ 
+  ├── LangChain       ███████████░
+  ├── Agentic RAG     ███████████░
+  └── pgvector        ██████████░░
+
+ML Tools:
+  ├── Scikit-learn    ███████████░
+  ├── XGBoost         ██████████░░
+  └── MLflow          █████████░░░
 ```
 
----
+</td>
+<td width="50%" valign="top">
 
-## 🏰 WORLDS CONQUERED (Projects)
+### ⚡ Full-Stack Weapons
+```yaml
+Frontend:
+  ├── React/TypeScript ████████████
+  ├── Tailwind CSS     ███████████░
+  └── WebSockets       ██████████░░
 
+Backend:
+  ├── Node.js/Express  ████████████
+  ├── FastAPI/Flask    ███████████░
+  └── REST/GraphQL     ███████████░
 ```
-WORLD 1-1 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ★★★★★
-```
-### 🔐 [FraudShield AI](link)
-> *Boss Defeated: Real-time Fraud Detection*  
-> `FastAPI` `Kafka Streaming` `XGBoost` `Kubernetes`  
-> Built a microservices fortress that catches fraudsters in milliseconds
 
-```
-WORLD 2-1 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ★★★★★
-```
-### 📊 [FinSight AI](link)
-> *Boss Defeated: Financial Document Chaos*  
-> `RAG System` `LangChain` `pgvector` `PostgreSQL`  
-> AI-powered Q&A that makes sense of financial madness
-
-```
-WORLD 3-1 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ★★★★☆
-```
-### 🎫 [EventHub](link)
-> *Boss Defeated: Event Management*  
-> `React` `Node.js` `Socket.io` `Real-time Messaging`  
-> Where events come alive with real-time magic
-
-```
-WORLD 4-1 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ★★★★★
-```
-### 🗳️ [ZK-Vote](link)
-> *Boss Defeated: Privacy Villains*  
-> `ZK-SNARKs` `Blockchain` `Cryptography`  
-> Private voting built from scratch. Trust no one. Verify everything.
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GAME STATS
+## 🎮 TECH LOADOUT
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f8d847)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff)
+| 💻 Languages | 🗄️ Databases | ☁️ Cloud & DevOps |
+|:---:|:---:|:---:|
+| Python | PostgreSQL | AWS (S3, Lambda, RDS) |
+| JavaScript/TypeScript | MongoDB | GCP (Dataflow, Pub/Sub) |
+| SQL | Snowflake • BigQuery | Docker • Kubernetes |
+| HTML/CSS | Redis • Firebase | Airflow • Kafka |
 
 </div>
 
 ---
 
-## 🎯 CURRENT QUEST
+## 📊 PLAYER STATS
 
-```diff
-+ 🔍 Seeking: Data Science / Full-Stack / GenAI roles
-+ 🎮 Status: Ready to join your party!
-! ⚔️  Weapon of choice: Production-grade ML systems
-```
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smitpatne&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&ring_color=FF6B6B&icon_color=4ECDC4)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=smitpatne&theme=radical&hide_border=true&background=0d1117&ring=FF6B6B&fire=4ECDC4&currStreakLabel=4ECDC4)
+
+</div>
 
 ---
 
 <div align="center">
 
-### 🏆 CONTINUE? INSERT COIN TO CONNECT
+### 🕹️ INSERT COIN TO CONNECT
 
-[![Email](https://img.shields.io/badge/📧_Email-Press_Start-red?style=for-the-badge)](mailto:your@email.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Player_2-blue?style=for-the-badge)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-High_Score-purple?style=for-the-badge)](your-portfolio-link)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-FF6B6B?style=for-the-badge)](https://smitpatneportfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge)](https://www.linkedin.com/in/smit-patne/)
+[![Email](https://img.shields.io/badge/📧_Email-Hire_Me-4ECDC4?style=for-the-badge)](mailto:smithp17999@gmail.com)
 
 ```
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║   THANK YOU FOR VISITING!                                  ║
-║                                                            ║
-║   "It's-a me, Smit!" 🍄                                    ║
-║                                                            ║
-║   Your quest awaits... Let's build something legendary.    ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   🚀 READY FOR NEW ADVENTURES                                    ║
+║                                                                  ║
+║   Currently seeking: GenAI • Full-Stack • Data Science roles     ║
+║                                                                  ║
+║   Let's build something legendary together.                      ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ECDC4,100:FF6B6B&height=100&section=footer" width="100%"/>
