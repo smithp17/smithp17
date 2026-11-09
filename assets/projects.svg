@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 470" width="1000" height="470" role="img" aria-label="Featured projects: DataForge, ShelfScanner AI, FraudShield AI, FinSight AI, PitchField AI, ZK Vote">
+<style>
+ text{font-family:'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace}
+ .card{animation:pop .6s cubic-bezier(.2,.9,.3,1.3) both}
+ @keyframes pop{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:none}}
+ .lit{animation:lit 6s ease-in-out infinite;opacity:0}
+ @keyframes lit{0%,100%{opacity:0}8%,14%{opacity:1}22%{opacity:0}}
+ .bl{animation:bl 1s steps(1) infinite}@keyframes bl{50%{opacity:0}}
+</style>
+<g class="card" style="animation-delay:0.00s">
+<path d="M35 42 q0 -12 12 -12 h230 l14 14 h20 l14 -14 h0 q10 0 10 12 v178 q0 10 -10 10 h-280 q-10 0 -10 -10 z" fill="#161B22" stroke="#30363D" stroke-width="2"/>
+<rect class="lit" style="animation-delay:0s" x="33" y="28" width="304" height="194" rx="12" fill="none" stroke="#FF6B6B" stroke-width="2.5"/>
+<rect x="51" y="58" width="268" height="96" rx="6" fill="#FF6B6B" opacity=".12"/><rect x="51" y="58" width="6" height="96" fill="#FF6B6B"/>
+<text x="69" y="88" font-size="19" font-weight="800" fill="#F0F6FC">DATAFORGE</text>
+<text x="69" y="112" font-size="12.5" fill="#B1BAC4">synthetic data from a prompt</text>
+<rect x="69" y="126" width="54" height="20" rx="10" fill="none" stroke="#FF6B6B" stroke-opacity=".7"/><text x="96" y="140" font-size="11" fill="#FF6B6B" text-anchor="middle">React</text>
+<rect x="129.0" y="126" width="69" height="20" rx="10" fill="none" stroke="#FF6B6B" stroke-opacity=".7"/><text x="164" y="140" font-size="11" fill="#FF6B6B" text-anchor="middle">FastAPI</text>
+<rect x="204.2" y="126" width="62" height="20" rx="10" fill="none" stroke="#FF6B6B" stroke-opacity=".7"/><text x="235" y="140" font-size="11" fill="#FF6B6B" text-anchor="middle">Ollama</text>
+<rect x="75" y="194" width="12" height="14" rx="2" fill="#2D333B"/>
+<rect x="98" y="194" width="12" height="14" rx="2" fill="#2D333B"/>
+<rect x="121" y="194" width="12" height="14" rx="2" fill="#2D333B"/>
+<rect x="144" y="194" width="12" height="14" rx="2" fill="#2D333B"/>
+<rect x="167" y="194" width="12" height="14" rx="2" fill="#2D333B"/>
+<rect x="190" y="194" width="12" height="14" rx="2" fill="#2D333B"/>
+<rect x="213" y="194" width="12" height="14" rx="2" fill="#2D333B"/>
+<rect x="236" y="194" width="12" height="14" rx="2" fill="#2D333B"/>
+<rect x="259" y="194" width="12" height="14" rx="2" fill="#2D333B"/>
+<rect x="282" y="194" width="12" height="14" rx="2" fill="#2D333B"/>
+<text x="319" y="186" font-size="10" font-weight="700" fill="#FF6B6B" text-anchor="end" class="bl">● NOW PLAYING</text>
+</g>
+<g class="card" style="animation-delay:0.12s">
+<path d="M365 42 q0 -12 12 -12 h230 l14 14 h20 l14 -14 h0 q10 0 10 12 v178 q0 10 -10 10 h-280 q-10 0 -10 -10 z" fill="#161B22" stroke="#30363D" stroke-width="2"/>
+<rect class="lit" style="animation-delay:1s" x="363" y="28" width="304" height="194" rx="12" fill="none" stroke="#4ECDC4" stroke-width="2.5"/>
+<rect x="381" y="58" width="268" height="96" rx="6" fill="#4ECDC4" opacity=".12"/><rect x="381" y="58" width="6" height="96" fill="#4ECDC4"/>
+<text x="399" y="88" font-size="19" font-weight="800" fill="#F0F6FC">SHELFSCANNER AI</text>
+<text x="399" y="112" font-size="12.5" fill="#B1BAC4">counts every box on the shelf</text>
+<rect x="399" y="126" width="62" height="20" rx="10" fill="none" stroke="#4ECDC4" stroke-opacity=".7"/><text x="430" y="140" font-size="11" fill="#4ECDC4" text-anchor="middle">YOLO11</text>
+<rect x="466.6" y="126" width="46" height="20" rx="10" fill="none" stroke="#4ECDC4" stroke-opacity=".7"/><text x="490" y="140" font-size="11" fill="#4ECDC4" text-anchor="middle">CLIP</text>
+<rect x="519.0" y="126" width="62" height="20" rx="10" fill="none" stroke="#4ECDC4" stroke-opacity=".7"/><text x="550" y="140" font-size="11" fill="#4ECDC4" text-anchor="middle">Vision</text>
+<rect x="405" y="194" width="12" height="14" rx="2" fill="#2D333B"/>
+<rect x="428" y="194" width="12" height="14" rx="2" fill="#2D333B"/>
+<rect x="451" y="194" width="12" height="14" rx="2" fill="#2D333B"/>
+<rect x="474" y="194" width="12" height="14" rx="2" fill="#2D333B"/>
+<rect x="497" y="194" width="12" height="14" rx="2" fill="#2D333B"/>
+<rect x="520" y="194" width="12" height="14" rx="2" fill="#2D333B"/>
+<rect x="543" y="194" width="12" height="14" rx="2" fill="#2D333B"/>
+<rect x="566" y="194" width="12" height="14" rx="2" fill="#2D333B"/>
+<rect x="589" y="194" width="12" height="14" rx="2" fill="#2D333B"/>
+<rect x="612" y="194" width="12" height="14" rx="2" fill="#2D333B"/>
+<text x="649" y="186" font-size="10" font-weight="700" fill="#4ECDC4" text-anchor="end" >VISION</text>
+</g>
+<g class="card" style="animation-delay:0.24s">
+<path d="M695 42 q0 -12 12 -12 h230 l14 14 h20 l14 -14 h0 q10 0 10 12 v178 q0 10 -10 10 h-280 q-10 0 -10 -10 z" fill="#161B22" stroke="#30363D" stroke-width="2"/>
+<rect class="lit" style="animation-delay:2s" x="693" y="28" width="304" height="194" rx="12" fill="none" stroke="#FFD866" stroke-width="2.5"/>
+<rect x="711" y="58" width="268" height="96" rx="6" fill="#FFD866" opacity=".12"/><rect x="711" y="58" width="6" height="96" fill="#FFD866"/>
+<text x="729" y="88" font-size="19" font-weight="800" fill="#F0F6FC">FRAUDSHIELD AI</text>
+<text x="729" y="112" font-size="12.5" fill="#B1BAC4">catches fraud, explains why</text>
+<rect x="729" y="126" width="54" height="20" rx="10" fill="none" stroke="#FFD866" stroke-opacity=".7"/><text x="756" y="140" font-size="11" fill="#FFD866" text-anchor="middle">Kafka</text>
+<rect x="789.0" y="126" width="69" height="20" rx="10" fill="none" stroke="#FFD866" stroke-opacity=".7"/><text x="824" y="140" font-size="11" fill="#FFD866" text-anchor="middle">XGBoost</text>
+<rect x="864.2" y="126" width="46" height="20" rx="10" fill="none" stroke="#FFD866" stroke-opacity=".7"/><text x="887" y="140" font-size="11" fill="#FFD866" text-anchor="middle">SHAP</text>
+<rect x="735" y="194" width="12" height="14" rx="2" fill="#2D333B"/>
+<rect x="758" y="194" width="12" height="14" rx="2" fill="#2D333B"/>
+<rect x="781" y="194" width="12" height="14" rx="2" fill="#2D333B"/>
+<rect x="804" y="194" width="12" height="14" rx="2" fill="#2D333B"/>
+<rect x="827" y="194" width="12" height="14" rx="2" fill="#2D333B"/>
+<rect x="850" y="194" width="12" height="14" rx="2" fill="#2D333B"/>
+<rect x="873" y="194" width="12" height="14" rx="2" fill="#2D333B"/>
+<rect x="896" y="194" width="12" height="14" rx="2" fill="#2D333B"/>
+<rect x="919" y="194" width="12" height="14" rx="2" fill="#2D333B"/>
+<rect x="942" y="194" width="12" height="14" rx="2" fill="#2D333B"/>
+<text x="979" y="186" font-size="10" font-weight="700" fill="#FFD866" text-anchor="end" >REAL-TIME</text>
+</g>
+<g class="card" style="animation-delay:0.36s">
+<path d="M35 262 q0 -12 12 -12 h230 l14 14 h20 l14 -14 h0 q10 0 10 12 v178 q0 10 -10 10 h-280 q-10 0 -10 -10 z" fill="#161B22" stroke="#30363D" stroke-width="2"/>
+<rect class="lit" style="animation-delay:3s" x="33" y="248" width="304" height="194" rx="12" fill="none" stroke="#58A6FF" stroke-width="2.5"/>
+<rect x="51" y="278" width="268" height="96" rx="6" fill="#58A6FF" opacity=".12"/><rect x="51" y="278" width="6" height="96" fill="#58A6FF"/>
+<text x="69" y="308" font-size="19" font-weight="800" fill="#F0F6FC">FINSIGHT AI</text>
+<text x="69" y="332" font-size="12.5" fill="#B1BAC4">RAG over docs + live markets</text>
+<rect x="69" y="346" width="77" height="20" rx="10" fill="none" stroke="#58A6FF" stroke-opacity=".7"/><text x="107" y="360" font-size="11" fill="#58A6FF" text-anchor="middle">pgvector</text>
+<rect x="151.8" y="346" width="46" height="20" rx="10" fill="none" stroke="#58A6FF" stroke-opacity=".7"/><text x="175" y="360" font-size="11" fill="#58A6FF" text-anchor="middle">Jina</text>
+<rect x="204.20000000000002" y="346" width="69" height="20" rx="10" fill="none" stroke="#58A6FF" stroke-opacity=".7"/><text x="239" y="360" font-size="11" fill="#58A6FF" text-anchor="middle">Finnhub</text>
+<rect x="75" y="414" width="12" height="14" rx="2" fill="#2D333B"/>
+<rect x="98" y="414" width="12" height="14" rx="2" fill="#2D333B"/>
+<rect x="121" y="414" width="12" height="14" rx="2" fill="#2D333B"/>
+<rect x="144" y="414" width="12" height="14" rx="2" fill="#2D333B"/>
+<rect x="167" y="414" width="12" height="14" rx="2" fill="#2D333B"/>
+<rect x="190" y="414" width="12" height="14" rx="2" fill="#2D333B"/>
+<rect x="213" y="414" width="12" height="14" rx="2" fill="#2D333B"/>
+<rect x="236" y="414" width="12" height="14" rx="2" fill="#2D333B"/>
+<rect x="259" y="414" width="12" height="14" rx="2" fill="#2D333B"/>
+<rect x="282" y="414" width="12" height="14" rx="2" fill="#2D333B"/>
+<text x="319" y="406" font-size="10" font-weight="700" fill="#58A6FF" text-anchor="end" >RAG</text>
+</g>
+<g class="card" style="animation-delay:0.48s">
+<path d="M365 262 q0 -12 12 -12 h230 l14 14 h20 l14 -14 h0 q10 0 10 12 v178 q0 10 -10 10 h-280 q-10 0 -10 -10 z" fill="#161B22" stroke="#30363D" stroke-width="2"/>
+<rect class="lit" style="animation-delay:4s" x="363" y="248" width="304" height="194" rx="12" fill="none" stroke="#7EE787" stroke-width="2.5"/>
+<rect x="381" y="278" width="268" height="96" rx="6" fill="#7EE787" opacity=".12"/><rect x="381" y="278" width="6" height="96" fill="#7EE787"/>
+<text x="399" y="308" font-size="19" font-weight="800" fill="#F0F6FC">PITCHFIELD AI</text>
+<text x="399" y="332" font-size="12.5" fill="#B1BAC4">an LLM that talks cricket</text>
+<rect x="399" y="346" width="46" height="20" rx="10" fill="none" stroke="#7EE787" stroke-opacity=".7"/><text x="422" y="360" font-size="11" fill="#7EE787" text-anchor="middle">LoRA</text>
+<rect x="451.4" y="346" width="46" height="20" rx="10" fill="none" stroke="#7EE787" stroke-opacity=".7"/><text x="475" y="360" font-size="11" fill="#7EE787" text-anchor="middle">PEFT</text>
+<rect x="503.79999999999995" y="346" width="31" height="20" rx="10" fill="none" stroke="#7EE787" stroke-opacity=".7"/><text x="519" y="360" font-size="11" fill="#7EE787" text-anchor="middle">HF</text>
+<rect x="405" y="414" width="12" height="14" rx="2" fill="#2D333B"/>
+<rect x="428" y="414" width="12" height="14" rx="2" fill="#2D333B"/>
+<rect x="451" y="414" width="12" height="14" rx="2" fill="#2D333B"/>
+<rect x="474" y="414" width="12" height="14" rx="2" fill="#2D333B"/>
+<rect x="497" y="414" width="12" height="14" rx="2" fill="#2D333B"/>
+<rect x="520" y="414" width="12" height="14" rx="2" fill="#2D333B"/>
+<rect x="543" y="414" width="12" height="14" rx="2" fill="#2D333B"/>
+<rect x="566" y="414" width="12" height="14" rx="2" fill="#2D333B"/>
+<rect x="589" y="414" width="12" height="14" rx="2" fill="#2D333B"/>
+<rect x="612" y="414" width="12" height="14" rx="2" fill="#2D333B"/>
+<text x="649" y="406" font-size="10" font-weight="700" fill="#7EE787" text-anchor="end" >FINE-TUNE</text>
+</g>
+<g class="card" style="animation-delay:0.60s">
+<path d="M695 262 q0 -12 12 -12 h230 l14 14 h20 l14 -14 h0 q10 0 10 12 v178 q0 10 -10 10 h-280 q-10 0 -10 -10 z" fill="#161B22" stroke="#30363D" stroke-width="2"/>
+<rect class="lit" style="animation-delay:5s" x="693" y="248" width="304" height="194" rx="12" fill="none" stroke="#D2A8FF" stroke-width="2.5"/>
+<rect x="711" y="278" width="268" height="96" rx="6" fill="#D2A8FF" opacity=".12"/><rect x="711" y="278" width="6" height="96" fill="#D2A8FF"/>
+<text x="729" y="308" font-size="19" font-weight="800" fill="#F0F6FC">ZK VOTE</text>
+<text x="729" y="332" font-size="12.5" fill="#B1BAC4">vote privately, verify publicly</text>
+<rect x="729" y="346" width="77" height="20" rx="10" fill="none" stroke="#D2A8FF" stroke-opacity=".7"/><text x="767" y="360" font-size="11" fill="#D2A8FF" text-anchor="middle">Solidity</text>
+<rect x="811.8" y="346" width="31" height="20" rx="10" fill="none" stroke="#D2A8FF" stroke-opacity=".7"/><text x="827" y="360" font-size="11" fill="#D2A8FF" text-anchor="middle">Go</text>
+<rect x="849.0" y="346" width="31" height="20" rx="10" fill="none" stroke="#D2A8FF" stroke-opacity=".7"/><text x="865" y="360" font-size="11" fill="#D2A8FF" text-anchor="middle">ZK</text>
+<rect x="735" y="414" width="12" height="14" rx="2" fill="#2D333B"/>
+<rect x="758" y="414" width="12" height="14" rx="2" fill="#2D333B"/>
+<rect x="781" y="414" width="12" height="14" rx="2" fill="#2D333B"/>
+<rect x="804" y="414" width="12" height="14" rx="2" fill="#2D333B"/>
+<rect x="827" y="414" width="12" height="14" rx="2" fill="#2D333B"/>
+<rect x="850" y="414" width="12" height="14" rx="2" fill="#2D333B"/>
+<rect x="873" y="414" width="12" height="14" rx="2" fill="#2D333B"/>
+<rect x="896" y="414" width="12" height="14" rx="2" fill="#2D333B"/>
+<rect x="919" y="414" width="12" height="14" rx="2" fill="#2D333B"/>
+<rect x="942" y="414" width="12" height="14" rx="2" fill="#2D333B"/>
+<text x="979" y="406" font-size="10" font-weight="700" fill="#D2A8FF" text-anchor="end" >CRYPTO</text>
+</g>
+</svg>
