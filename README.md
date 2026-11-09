@@ -1,4 +1,6 @@
-<img src="./assets/banner.png" width="100%" alt="Smit Patne"/>
+<p align="center">
+  <img src="./assets/banner.jpeg" width="100%" alt="Smit Patne"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=640&lines=Full-Stack+Engineer+%C3%97+GenAI+Developer;Computer+Vision+%C2%B7+RAG+%C2%B7+LLM+Fine-tuning;Wait%2C+AI+can+do+that%3F" alt="typing intro"/>
@@ -40,8 +42,9 @@
   <img src="https://streak-stats.demolab.com?user=smithp17&hide_border=true&border_radius=16&background=135,0F172A,1E1B4B&ring=22D3EE&fire=F472B6&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=22D3EE&sideLabels=A78BFA&dates=94A3B8&stroke=334155" width="96%" alt="Contribution streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smithp17&bg_color=0F172A&color=A78BFA&line=22D3EE&point=F472B6&area=true&area_color=22D3EE&title_color=22D3EE&hide_border=true&radius=16" width="96%" alt="Contribution graph"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/smithp17/smithp17/output/snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/smithp17/smithp17/output/snake.svg" width="100%" alt="Contribution graph"/>
+</picture>
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
