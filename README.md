@@ -14,12 +14,40 @@
 
 <br/><br/>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:smithp17999@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smit-patne/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=flat-square&logo=netlify&logoColor=white)](https://smitpatneportfolio.netlify.app/)
+<img src="./assets/hero.svg" width="100%" alt="Smit Patne"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=4ECDC4&center=true&vCenter=true&width=640&lines=Full-Stack+Engineer+%C3%97+GenAI+Developer;Computer+Vision+%C2%B7+RAG+%C2%B7+LLM+Fine-tuning;Wait%2C+AI+can+do+that%3F" alt="typing intro"/>
+</p>
+
+<img align="right" width="330" src="./assets/coder.svg" alt="pixel developer coding"/>
+
+<br/>
+
+▸ Turning coffee into commits, bugs into lessons, and wild ideas into production-ready obsessions.
+
+▸ Into GenAI, Computer Vision, or Full-Stack? So am I. Let's build something that makes people ask, *"Wait, AI can do that?"*
+
+<br/>
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smithp17999@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smit-patne/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=netlify&logoColor=white)](https://smitpatneportfolio.netlify.app/)
+
+<img src="https://komarev.com/ghpvc/?username=smithp17&label=visitors&color=4ECDC4&style=for-the-badge" alt="visitors"/>
 
 <br clear="right"/>
 <br/>
+
+<img src="./assets/player-card.svg" width="100%" alt="player card"/>
+
+<img src="./assets/projects.svg" width="100%" alt="DataForge, ShelfScanner AI, FraudShield AI, FinSight AI, PitchField AI, ZK Vote"/>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,java,react,tailwind,nodejs,fastapi,spring&theme=dark" alt="languages and frameworks"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=pytorch,postgres,mongodb,redis,kafka,docker,kubernetes,aws,gcp,grafana&theme=dark" alt="ml, data and ops"/>
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smithp17&theme=github_dark" width="96%" alt="profile details"/>
@@ -40,27 +68,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smithp17&theme=github-compact&hide_border=true&area=true&custom_title=Smit's%20Contribution%20Graph" width="96%" alt="contribution graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smithp17&theme=github-compact&hide_border=true&area=true" width="96%" alt="contribution graph"/>
 </p>
 
-<h3 align="center">🛠️ Tech Stack</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,java,react,tailwind,nodejs,fastapi,spring&theme=dark" alt="languages and frameworks"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka,docker,kubernetes,aws,gcp,grafana,pytorch&theme=dark" alt="data and ops"/>
-</p>
-
-<h3 align="center">🚀 Featured Projects</h3>
-
-<p align="center">
-  <b>DataForge</b> · synthetic ML datasets from a prompt &nbsp;|&nbsp;
-  <b>FraudShield AI</b> · real-time fraud detection with Kafka + XGBoost + SHAP &nbsp;|&nbsp;
-  <b>FinSight AI</b> · financial RAG over docs + live market data &nbsp;|&nbsp;
-  <b>ShelfScanner AI</b> · YOLO11 + CLIP shelf counting &nbsp;|&nbsp;
-  <b>PitchFieldAI</b> · LoRA fine-tuned LLM for cricket & football
-</p>
-
-<p align="center">
-  <img src="./assets/continue.svg" width="100%" alt="Continue? Player 2 has entered the game"/>
-</p>
+<a href="mailto:smithp17999@gmail.com?subject=Player%202%20has%20entered%20the%20game">
+  <img src="./assets/continue.svg" width="100%" alt="Continue? Click to email me"/>
+</a>
