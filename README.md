@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.jpeg" width="100%" alt="Smit Patne"/>
+  <img src="./assets/Neon%20AI%20Workspace%20with%20Developer%20Portrait.png" width="100%" alt="Smit Patne"/>
 </p>
 
 <p align="center">
@@ -33,14 +33,11 @@
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smithp17&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&border_radius=16&bg_color=135,0F172A,1E1B4B&title_color=22D3EE&icon_color=A78BFA&text_color=CBD5E1&ring_color=F472B6" height="180" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smithp17&layout=donut&langs_count=8&hide_border=true&border_radius=16&bg_color=135,0F172A,1E1B4B&title_color=22D3EE&text_color=CBD5E1" height="180" alt="Top languages"/>
-</p>
+<img src="https://raw.githubusercontent.com/smithp17/smithp17/output/overview.svg" width="100%" alt="GitHub overview"/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=smithp17&hide_border=true&border_radius=16&background=135,0F172A,1E1B4B&ring=22D3EE&fire=F472B6&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=22D3EE&sideLabels=A78BFA&dates=94A3B8&stroke=334155" width="96%" alt="Contribution streak"/>
-</p>
+<img src="https://raw.githubusercontent.com/smithp17/smithp17/output/activity.svg" width="100%" alt="Contribution activity"/>
+
+<img src="https://raw.githubusercontent.com/smithp17/smithp17/output/languages.svg" width="100%" alt="Languages"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/smithp17/smithp17/output/snake-dark.svg"/>
