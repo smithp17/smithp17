@@ -6,12 +6,8 @@
 
 <img align="right" width="340" src="./assets/coder.svg" alt="pixel developer coding"/>
 
-- 🔭 Building **DataForge**: describe a dataset in plain English, get realistic synthetic data back
-- 🏥 Shipped a multi-tenant **pharma compliance LMS**, now live with pilot customers
-- 🧠 Into RAG, LLM fine-tuning, and real-time ML systems
-- 🏏 Cricket and football fan, and a Vinícius Júnior defender in every group chat
-- 💼 Open to **GenAI / Full-Stack / Applied ML** roles
-
+- ▸ Turning **coffee into commits**, bugs into lessons, and wild ideas into production-ready obsessions.
+- ▸ Into **GenAI**, **Computer Vision**, or **Full-Stack**? So am I. Let's build something that makes people ask, *"Wait, AI can do that?"*
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=smithp17&label=visitors&color=brightgreen&style=flat-square" alt="visitors"/>
