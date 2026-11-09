@@ -1,19 +1,3 @@
-<h3 align="center">👋 Hey there, I'm Smit</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=4ECDC4&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+universe!;Full-Stack+Engineer+%C3%97+GenAI+Developer;I+ship+AI+products+end+to+end" alt="Typing intro"/>
-</p>
-
-<img align="right" width="340" src="./assets/coder.svg" alt="pixel developer coding"/>
-
-- ▸ Turning **coffee into commits**, bugs into lessons, and wild ideas into production-ready obsessions.
-- ▸ Into **GenAI**, **Computer Vision**, or **Full-Stack**? So am I. Let's build something that makes people ask, *"Wait, AI can do that?"*
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=smithp17&label=visitors&color=brightgreen&style=flat-square" alt="visitors"/>
-
-<br/><br/>
-
 <img src="./assets/hero.svg" width="100%" alt="Smit Patne"/>
 
 <p align="center">
