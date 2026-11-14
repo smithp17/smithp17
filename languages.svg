@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 210" width="1000" height="210" role="img" aria-label="Most used languages">
+<style>
+ .in{animation:in .8s cubic-bezier(.16,1,.3,1) both} @keyframes in{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+ .pulse{animation:p 1.8s ease-in-out infinite} @keyframes p{50%{opacity:.3}}
+</style>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0F172A"/><stop offset="1" stop-color="#1E1B4B"/></linearGradient>
+ <filter id="glow" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ 
+</defs>
+<rect x="5" y="5" width="990" height="200" rx="18" fill="url(#bg)"/><rect x="5.75" y="5.75" width="988.5" height="198.5" rx="17.5" fill="none" stroke="#334155" stroke-opacity=".8" stroke-width="1.5"/><text x="31" y="45" font-family="'Inter','Segoe UI',system-ui,-apple-system,sans-serif" font-size="17" font-weight="700" fill="#E2E8F0">Languages</text><text x="969" y="45" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="11.5" fill="#94A3B8" text-anchor="end">by code size across repos</text>
+<rect x="31" y="66" width="928" height="14" rx="7" fill="#1E293B"/>
+<clipPath id="bar"><rect x="31" y="66" width="928" height="14" rx="7"/></clipPath><g clip-path="url(#bar)">
+<rect x="31.0" y="66" width="0" height="14" fill="#22D3EE"><animate attributeName="width" from="0" to="503.7" dur=".9s" begin="0.15s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1" keyTimes="0;1"/></rect>
+<rect x="536.7" y="66" width="0" height="14" fill="#A78BFA"><animate attributeName="width" from="0" to="125.1" dur=".9s" begin="0.23s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1" keyTimes="0;1"/></rect>
+<rect x="663.8" y="66" width="0" height="14" fill="#F472B6"><animate attributeName="width" from="0" to="103.4" dur=".9s" begin="0.31s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1" keyTimes="0;1"/></rect>
+<rect x="769.2" y="66" width="0" height="14" fill="#34D399"><animate attributeName="width" from="0" to="67.7" dur=".9s" begin="0.39s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1" keyTimes="0;1"/></rect>
+<rect x="838.9" y="66" width="0" height="14" fill="#FB923C"><animate attributeName="width" from="0" to="64.3" dur=".9s" begin="0.47s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1" keyTimes="0;1"/></rect>
+<rect x="905.2" y="66" width="0" height="14" fill="#60A5FA"><animate attributeName="width" from="0" to="20.9" dur=".9s" begin="0.55s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1" keyTimes="0;1"/></rect>
+<rect x="928.2" y="66" width="0" height="14" fill="#FACC15"><animate attributeName="width" from="0" to="13.7" dur=".9s" begin="0.63s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1" keyTimes="0;1"/></rect>
+<rect x="943.9" y="66" width="0" height="14" fill="#F87171"><animate attributeName="width" from="0" to="13.1" dur=".9s" begin="0.71s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1" keyTimes="0;1"/></rect>
+</g>
+<g class="in" style="animation-delay:0.30s"><circle cx="37.0" cy="118" r="6" fill="#22D3EE"/><text x="51.0" y="122" font-family="'Inter','Segoe UI',system-ui,-apple-system,sans-serif" font-size="14" font-weight="600" fill="#E2E8F0">Jupyter Notebook</text><text x="223" y="122" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="12" fill="#94A3B8" text-anchor="end">54.5%</text></g>
+<g class="in" style="animation-delay:0.36s"><circle cx="269.0" cy="118" r="6" fill="#A78BFA"/><text x="283.0" y="122" font-family="'Inter','Segoe UI',system-ui,-apple-system,sans-serif" font-size="14" font-weight="600" fill="#E2E8F0">HTML</text><text x="455" y="122" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="12" fill="#94A3B8" text-anchor="end">13.7%</text></g>
+<g class="in" style="animation-delay:0.42s"><circle cx="501.0" cy="118" r="6" fill="#F472B6"/><text x="515.0" y="122" font-family="'Inter','Segoe UI',system-ui,-apple-system,sans-serif" font-size="14" font-weight="600" fill="#E2E8F0">JavaScript</text><text x="687" y="122" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="12" fill="#94A3B8" text-anchor="end">11.4%</text></g>
+<g class="in" style="animation-delay:0.48s"><circle cx="733.0" cy="118" r="6" fill="#34D399"/><text x="747.0" y="122" font-family="'Inter','Segoe UI',system-ui,-apple-system,sans-serif" font-size="14" font-weight="600" fill="#E2E8F0">TypeScript</text><text x="919" y="122" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="12" fill="#94A3B8" text-anchor="end">7.5%</text></g>
+<g class="in" style="animation-delay:0.54s"><circle cx="37.0" cy="156" r="6" fill="#FB923C"/><text x="51.0" y="160" font-family="'Inter','Segoe UI',system-ui,-apple-system,sans-serif" font-size="14" font-weight="600" fill="#E2E8F0">Python</text><text x="223" y="160" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="12" fill="#94A3B8" text-anchor="end">7.1%</text></g>
+<g class="in" style="animation-delay:0.60s"><circle cx="269.0" cy="156" r="6" fill="#60A5FA"/><text x="283.0" y="160" font-family="'Inter','Segoe UI',system-ui,-apple-system,sans-serif" font-size="14" font-weight="600" fill="#E2E8F0">CSS</text><text x="455" y="160" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="12" fill="#94A3B8" text-anchor="end">2.5%</text></g>
+<g class="in" style="animation-delay:0.66s"><circle cx="501.0" cy="156" r="6" fill="#FACC15"/><text x="515.0" y="160" font-family="'Inter','Segoe UI',system-ui,-apple-system,sans-serif" font-size="14" font-weight="600" fill="#E2E8F0">Java</text><text x="687" y="160" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="12" fill="#94A3B8" text-anchor="end">1.7%</text></g>
+<g class="in" style="animation-delay:0.72s"><circle cx="733.0" cy="156" r="6" fill="#F87171"/><text x="747.0" y="160" font-family="'Inter','Segoe UI',system-ui,-apple-system,sans-serif" font-size="14" font-weight="600" fill="#E2E8F0">Other</text><text x="919" y="160" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="12" fill="#94A3B8" text-anchor="end">1.6%</text></g>
+</svg>
